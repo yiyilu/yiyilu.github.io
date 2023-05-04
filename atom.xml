@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2023-05-04T16:39:52.918Z</updated>
+  <updated>2023-05-04T16:24:02.667Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,19 +15,6 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>self-introduction</title>
-    <link href="http://example.com/2023/05/05/self-introduction/"/>
-    <id>http://example.com/2023/05/05/self-introduction/</id>
-    <published>2023-05-04T16:38:09.000Z</published>
-    <updated>2023-05-04T16:39:52.918Z</updated>
-    
-    
-    
-    
-    
-  </entry>
   
   <entry>
     <title>Hello World</title>
@@ -42,6 +29,27 @@
       
       
     <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>self-introduction</title>
+    <link href="http://example.com/2022/05/05/self-introduction/"/>
+    <id>http://example.com/2022/05/05/self-introduction/</id>
+    <published>2022-05-04T16:38:09.000Z</published>
+    <updated>2023-05-04T16:44:12.195Z</updated>
+    
+    <content type="html"><![CDATA[<p>Hi, everyone, my name is Yiyi Lu !!!</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Hi, everyone, my name is Yiyi Lu !!!&lt;/p&gt;
+</summary>
       
     
     
